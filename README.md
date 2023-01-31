@@ -9,4 +9,4 @@ I have strong technical experiences on providing highly scalable end-to-end soft
 - 💻 FE Web: React
 - 📱 FE Mobile: React Native
 - 💾 BE: Node.js
-- ☁️ Cloud: AWS & GCP
+- ☁️ Cloud: AWS & GCP & Cloudflare
