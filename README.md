@@ -14,3 +14,5 @@ I have strong technical experiences on providing highly scalable end-to-end soft
 ### For fun:
 - 📽️ [IMDB](https://www.imdb.com/user/ur34139173/?ref_=nv_usr_prof_2)
 - 🕹️ [Steam](https://steamcommunity.com/id/ogous/), [Epic Games](https://store.epicgames.com/u/db959bfd0aab4581a155c9dd35408865)
+- 🎧 [Spotify](https://open.spotify.com/playlist/1N6SgjU2shBg6XlwFtwhcG?si=b32e4bf050be47e3)
+- 🤓 [Theory of Technology](https://twitter.com/ogouschanali)
