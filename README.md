@@ -12,4 +12,5 @@ I have strong technical experiences on providing highly scalable end-to-end soft
 - ☁️ Cloud: AWS & GCP & Cloudflare
 
 ### For fun:
-- 📽️ [IMDB profile](https://www.imdb.com/user/ur34139173/?ref_=nv_usr_prof_2)
+- 📽️ [IMDB](https://www.imdb.com/user/ur34139173/?ref_=nv_usr_prof_2)
+- 🕹️ [Steam](https://steamcommunity.com/id/ogous/), [Epic Games](https://store.epicgames.com/u/db959bfd0aab4581a155c9dd35408865)
