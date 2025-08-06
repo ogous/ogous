@@ -11,7 +11,7 @@ I have strong technical experiences on providing scalable software solutions, mo
 - 🔗 Blockchain: EVM, Polkadot, ERC20, ERC721
 - ☁️ Cloud: AWS & GCP & Cloudflare
 
-### For fun:
+### Misc:
 - 📽️ [IMDB](https://www.imdb.com/user/ur34139173/?ref_=nv_usr_prof_2)
 - 🕹️ [Steam](https://steamcommunity.com/id/ogous/), [Epic Games](https://store.epicgames.com/u/db959bfd0aab4581a155c9dd35408865)
 - 🎧 [Spotify](https://open.spotify.com/user/cyborglenin?si=dfbaf3356ae64e2d)
