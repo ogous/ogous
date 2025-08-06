@@ -8,7 +8,7 @@ I have strong technical experiences on providing scalable software solutions, mo
 - 💻 FE Web: React
 - 📱 FE Mobile: React Native
 - 💾 BE: Node.js
-- 🔗 Blockchain: EVM, Polkadot, ERC20, ERC721
+- 🔗 Blockchain: EVM, Polkadot, Solidity
 - ☁️ Cloud: AWS & GCP & Cloudflare
 
 ### Misc:
