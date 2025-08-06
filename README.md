@@ -1,7 +1,6 @@
 # Ogous Chan Ali
 
-As a full-stack engineer, I have participated in the world of web3. With a deep focus to javascript ecosystem, I am currently playing and hacking with:
-- 🔭 Ether.js, Alchemy, Infura, Metamask, WalletConnect, Hardhat, IPFS, Ethereum, Polkadot, Solidity, Layer2
+As a full-stack engineer, I have participated in the world of web3 for the past 4 years.
 
 I have strong technical experiences on providing scalable software solutions ranging from cloud architecture to backend services and modern frontend development.
 
