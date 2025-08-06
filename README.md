@@ -2,7 +2,7 @@
 
 As a full-stack engineer, I have participated in the world of blockchain for the past 4 years.
 
-I have strong technical experiences on providing scalable software solutions ranging from cloud architecture to backend services and modern frontend development.
+I have strong technical experiences on providing scalable software solutions, modern frontend development and backend services.
 
 ### Top focuses:
 - 💻 FE Web: React
