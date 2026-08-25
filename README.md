@@ -1,15 +1,6 @@
-# Ogous Chan Ali
+# Ogous Chan Ali · Founding AI Engineer · Full-stack (TypeScript/Node.js) · Prediction Markets & DeFi
 
-As a full-stack engineer, I have participated in the world of blockchain for the past 4 years.
-
-I have strong technical experiences on providing scalable software solutions, modern frontend development and backend services.
-
-### Top focuses:
-- 💻 FE Web: React
-- 📱 FE Mobile: React Native
-- 💾 BE: Node.js
-- 🔗 Blockchain: EVM, Polkadot, Solidity
-- ☁️ Cloud: AWS & GCP & Cloudflare
+Founding AI Engineer and full-stack builder with 10+ years in TypeScript/Node.js, 4+ years in DeFi, and the last year building an LLM-driven production system from zero. Lead engineer on an on-chain prediction market focused on short-term (5/15/60-minute) price markets — open source, live on Arbitrum, $400k+ volume within weeks of launch; built the entire off-chain stack and app and contributed to the contracts. Currently the sole engineer of a stealth production LLM system in a regulated domain — multi-model pipeline, RAG, safety layer and evaluation harness, all built from zero with a strong bias toward determinism and auditability. I ship working prototypes in days, own the full stack from prompt to Postgres to deploy, and have founded or been the first engineer at three companies.
 
 ### Misc:
 - 📽️ [IMDB](https://www.imdb.com/user/ur34139173/?ref_=nv_usr_prof_2)
